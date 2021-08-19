@@ -1,0 +1,16 @@
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.exe
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.deps.json
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.runtimeconfig.json
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.runtimeconfig.dev.json
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.dll
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\SeleniumFbConsole.pdb
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.csproj.AssemblyReference.cache
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.AssemblyInfoInputs.cache
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.AssemblyInfo.cs
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.csproj.CoreCompileInputs.cache
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.dll
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.pdb
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.genruntimeconfig.cache
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\VS-Projects2021\SeleniumOne\SeleniumFbConsole\SeleniumFbConsole\obj\Debug\netcoreapp3.1\SeleniumFbConsole.csproj.CopyComplete
